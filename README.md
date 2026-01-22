@@ -1,5 +1,3 @@
-# BajajFinserv_project_LeaveItToUS
-
 title: Bajaj Finserv Project
 colorFrom: blue
 colorTo: indigo
