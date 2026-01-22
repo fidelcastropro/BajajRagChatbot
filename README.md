@@ -1,8 +1,6 @@
-#Bajaj Finserv RAG Chatbot
+# Bajaj Finserv RAG Chatbot
 
 title: Bajaj Finserv Project
-colorFrom: blue
-colorTo: indigo
 sdk: docker
 pinned: false
 Team name: LEAVE IT TO US
