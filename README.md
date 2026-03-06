@@ -1,8 +1,5 @@
 # Bajaj Finserv RAG Chatbot
 
-title: Bajaj Finserv Project
-sdk: docker
-pinned: false
 Team name: LEAVE IT TO US
 
 Bajaj Finserv Mediclaim Policy Queries Chatbot :
